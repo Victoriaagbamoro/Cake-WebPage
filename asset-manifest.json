@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cake-WebPage/static/css/main.db7fcf25.chunk.css",
+    "main.js": "/Cake-WebPage/static/js/main.aea2ce32.chunk.js",
+    "main.js.map": "/Cake-WebPage/static/js/main.aea2ce32.chunk.js.map",
+    "runtime-main.js": "/Cake-WebPage/static/js/runtime-main.594ce6f6.js",
+    "runtime-main.js.map": "/Cake-WebPage/static/js/runtime-main.594ce6f6.js.map",
+    "static/js/2.58aa19ad.chunk.js": "/Cake-WebPage/static/js/2.58aa19ad.chunk.js",
+    "static/js/2.58aa19ad.chunk.js.map": "/Cake-WebPage/static/js/2.58aa19ad.chunk.js.map",
+    "index.html": "/Cake-WebPage/index.html",
+    "precache-manifest.2b4c7c4943623a9200975a46b41ac4f8.js": "/Cake-WebPage/precache-manifest.2b4c7c4943623a9200975a46b41ac4f8.js",
+    "service-worker.js": "/Cake-WebPage/service-worker.js",
+    "static/css/main.db7fcf25.chunk.css.map": "/Cake-WebPage/static/css/main.db7fcf25.chunk.css.map",
+    "static/js/2.58aa19ad.chunk.js.LICENSE.txt": "/Cake-WebPage/static/js/2.58aa19ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.594ce6f6.js",
+    "static/js/2.58aa19ad.chunk.js",
+    "static/css/main.db7fcf25.chunk.css",
+    "static/js/main.aea2ce32.chunk.js"
+  ]
+}
