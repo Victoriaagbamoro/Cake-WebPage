@@ -1,0 +1,26 @@
+.special-bg{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    background-color: #000;
+    min-height: 70vh;
+    width: 90%;
+    color: #ffff;
+    /* margin-top: 45rem; */
+}
+
+.special-bg .special{
+    margin-top: 20px;
+}
+.special-bg .special h2{
+    width: 100%;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+
+.special-bg .special p{
+    margin-top: 10px;
+    margin-left: 570px;
+    border-bottom: 1px solid #ffff;
+    width: 10%;
+}
